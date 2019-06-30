@@ -1,5 +1,5 @@
 <?php
-namespace Problem;
+namespace Solution;
 
 class MysqlAdapter
 {
